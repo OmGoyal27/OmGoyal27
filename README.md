@@ -17,8 +17,6 @@ Date of birth - 27 October, 2011
 
 Hobbies - Just code and code (Yes I am serious)
 
-[My website (Which will probably not stay for long)](https://omgoyal.in)
-
 ## Why learn coding?
 
 I wanted to solve those little computer/tech problems that occur in our day to day life ranging from the tiniest copy and paste to automating functions.

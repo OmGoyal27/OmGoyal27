@@ -17,7 +17,7 @@ Date of birth - 27 October, 2011
 
 Hobbies - Just code and code (Yes I am serious)
 
-For you, it might be like only a few commit many months ago, but trust me, in my personal projects, I have a total of ~600 commits (Including my Public repositories)
+For you, it might be like only a few commit many months ago, but trust me, in my personal projects, I have a total of ~730 commits (Including my Public repositories)
 
 ## Why learn coding?
 

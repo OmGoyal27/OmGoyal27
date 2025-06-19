@@ -19,6 +19,8 @@ Hobbies - Just code and code (Yes I am serious)
 
 For you, it might be like only a few commit many months ago, but trust me, in my personal projects, I have a total of ~980 commits (Including my Public repositories)
 
+I also have some other basic but fun projects that I don't upload to github, so add ~80 commits to the pool
+
 ## Why learn coding?
 
 I wanted to solve those little computer/tech problems that occur in our day to day life ranging from the tiniest copy and paste to automating functions.

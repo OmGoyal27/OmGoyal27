@@ -19,7 +19,7 @@ I have a total of above **1175 commits**. *(Including my Public and Private repo
 
 *The above given image will be updated every week*
 
-I also have some other basic but fun projects that I don't upload to github, so add ~80 commits to the pool
+I also have some other basic but fun projects that I don't upload to github, so add ~100 commits to the pool
 
 Also, if somebody thinks these contributions are staged due to high number of contributions from March, that is because I had set on a mission, or you could say a streak, to code everyday. During exams, I only coded half an hour each day, so that my streak wouldn't break. But sometimes it broke, which made me really sad.
 

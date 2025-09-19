@@ -13,7 +13,7 @@ Name - Om Goyal
 
 Hobbies - Just code and code (Yes I am serious)
 
-I have a total of above **1450 commits**. *(Including my Public and Private repositories)*
+I have a total of above **1470 commits**. *(Including my Public and Private repositories)*
 
 ![image](images/contributions.png)
 

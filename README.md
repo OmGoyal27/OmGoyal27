@@ -13,6 +13,9 @@ Name - Om Goyal
 
 Hobbies - Just code and code (Yes I am serious)
 
+Previous year commits:
+![image](images/2024-contributions.png)
+
 I have a total of above **1510 commits**. *(Including my Public and Private repositories)*
 
 ![image](images/contributions.png)

@@ -22,7 +22,7 @@ This year's commits:
 
 *The above given image will be updated every week*
 
-I also have some other basic but fun projects that I don't upload to github, so add ~80 commits to the pool
+I also have some other basic but fun projects that I don't upload to github, so add ~100 commits to the pool
 
 > Total code commits: 365 + 1282 = ~1640
 

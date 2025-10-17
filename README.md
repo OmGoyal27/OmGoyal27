@@ -24,7 +24,7 @@ This year's commits:
 
 I also have some other basic but fun projects that I don't upload to github, so add ~100 commits to the pool
 
-> Total code commits: 365 + 1399 = 1764
+> Total code commits: 365 + 1319 = 1784
 
 Also, if somebody thinks these contributions are staged due to high number of contributions from March, that is because I had set on a mission, or you could say a streak, to code everyday. During exams, I only coded half an hour each day, so that my streak wouldn't break. But sometimes it broke, which made me really sad.
 

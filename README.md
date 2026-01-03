@@ -18,3 +18,7 @@ Hobbies - Just code and code (Yes I am serious)
 I wanted to solve those little computer/tech problems that occur in our day to day life ranging from the tiniest copy and paste to automating functions.
 
 And now I want it to be my full-time fun!
+
+## 🔥 Contribution Streak
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=OmGoyal27&theme=radical&hide_border=false&border_radius=10" width="100%" />

@@ -22,4 +22,4 @@ And now I want it to be my full-time fun!
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=OmGoyal27&theme=radical&hide_border=false&border_radius=10" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmGoyal27&theme=radical&hide_border=false&border_radius=10" width="100%" />

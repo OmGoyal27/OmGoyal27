@@ -1,6 +1,6 @@
 # OmGoyal27
 
-Hi, I’m @OmGoyal27.
+Hi, I’m @OmGoyal27!
 
 I’m interested in fun coding projects.
 
